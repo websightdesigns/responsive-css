@@ -1,0 +1,98 @@
+/* Main Site Styles */
+@media all {
+
+}
+
+/* ************************************************************************ */
+/* ------------------------------ RESPONSIVE VIEWS ------------------------ */
+/* ************************************************************************ */
+
+/* Large Desktops, Newer Laptops */
+@media (min-width: 1200px) {
+
+}
+
+/* Landscape Mode iPad/Tablet */
+@media (max-width: 1024px) {
+
+}
+
+/* Small Laptops */
+@media (max-width: 991px) {
+
+}
+
+/* Portrait Mode Small Tablet, Landscape Mode Samsung Galaxy S */
+@media (max-width: 800px) {
+
+}
+
+/* Portrait Mode iPad/Tablet */
+@media (max-width: 768px) {
+
+}
+
+/* Landscape Mode iPhone 6 Plus */
+@media (max-width: 736px) {
+
+}
+
+/* Portrait Mode Galaxy Note 2 */
+@media (max-width: 720px) {
+
+}
+
+/* Landscape Mode iPhone 6 */
+@media (max-width: 667px) {
+
+}
+
+/* Landscape Mode Android Phones */
+@media (max-width: 640px) {
+
+}
+
+/* Portrait Mode Small Tablet */
+@media (max-width: 600px) {
+
+}
+
+/* Landscape Mode iPhone 5, 5C, 5S */
+@media (max-width: 568px) {
+
+}
+
+/* Landscape Mode iPhone 3, 3G, 4, 4S */
+@media (max-width: 480px) {
+
+}
+
+/* Portrait Mode iPhone 6 plus */
+@media (max-width: 414px) {
+
+}
+
+/* Portrait Mode Nexus 4 */
+@media (max-width: 384px) {
+
+}
+
+/* Portrait Mode iPhone 6 */
+@media (max-width: 375px) {
+
+}
+
+/* Portrait Mode Android Phones */
+@media (max-width: 360px) {
+
+}
+
+/* Portrait Mode iPhone 3, 3G, 4, 4S, 5, 5C, 5S */
+@media (max-width: 320px) {
+
+}
+
+/* Old Android Phones, Blackberry Phones */
+@media (max-width: 240px) {
+
+}
